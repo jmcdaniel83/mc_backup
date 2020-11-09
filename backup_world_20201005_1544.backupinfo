@@ -1,0 +1,9 @@
+#=======================================================
+#This is an important file for your backups.
+#Do not move, edit or delete this file.
+#If you do, backups may not be automatically restorable.
+#=======================================================
+#Mon Oct 05 15:45:01 UTC 2020
+date=1601912662715
+parent=./backups/world/backup_world_20200908_0027.tar.gz
+world=world
